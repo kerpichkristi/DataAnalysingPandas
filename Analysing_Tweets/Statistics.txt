@@ -1,0 +1,161 @@
+
+
+####Total Statistics####
+
+
+
+All Tweets
+
+21563
+
+Max Retweeted Tweet
+
+       username  retweet_count  favorite_count  \
+12553  ruchowdh         144323               0   
+
+                                         normalized_text  
+12553  rt @lil_ibuprofen_ vaccinated not please stop ...  
+
+Max Favorite Tweet
+
+          username  retweet_count  favorite_count  \
+18703  math_rachel          13245           31841   
+
+                                         normalized_text  
+18703  “covid zero impossible omicron, what’s point e...  
+
+Most Frequent Hashtag
+
+[('#nlproc', 181), ('#codedbias', 166), ('#ai', 71), ('#dragvsai', 43), ('#neurips2021', 41), ('#citeblackwomen', 40), ('#algorithmicbias', 34), ('#acl2020nlp', 32), ('#equitableai', 31), ('#acl2021nlp', 30)]
+
+
+####Statistics Per User####
+
+
+
+Tweets of every user
+
+[('emilymbender', 3249), ('annargrs', 3249), ('math_rachel', 3245), ('ruchowdh', 3244), ('timnitGebru', 3235), ('mmitchell_ai', 3227), ('AJLUnited', 2114)]
+
+Max Retweeted Tweet Per User
+
+          username  retweet_count  favorite_count  \
+8954  emilymbender          20400               0   
+
+                                        normalized_text  
+8954  rt @philosophequeer accessibility dot jpeg htt...         username  retweet_count  favorite_count  \
+12553  ruchowdh         144323               0   
+
+                                         normalized_text  
+12553  rt @lil_ibuprofen_ vaccinated not please stop ...           username  retweet_count  favorite_count  \
+3532  timnitGebru          91376               0   
+
+                                        normalized_text  
+3532  rt @jessicadefino_ i was editor on kardashian ...            username  retweet_count  favorite_count  \
+21039  math_rachel          46885               0   
+
+                                         normalized_text  
+21039  rt @samswey those who are interested research-...            username  retweet_count  favorite_count  \
+2001  mmitchell_ai         118863               0   
+
+                                        normalized_text  
+2001  rt @davidwade coolest trick-or-treater ever ht...         username  retweet_count  favorite_count  \
+9737  AJLUnited           3744               0   
+
+                                        normalized_text  
+9737  rt @un_women happy international women's day! ...         username  retweet_count  favorite_count  \
+15313  annargrs          21697               0   
+
+                                         normalized_text  
+15313  rt @iaponomarenko it’s another morning ukraine...  
+
+Max Favorite Tweet 
+
+          username  retweet_count  favorite_count  \
+7660  emilymbender            399            1253   
+
+                                        normalized_text  
+7660  "ai" can not\n* predict who will commit crime\...         username  retweet_count  favorite_count  \
+12246  ruchowdh             49            1896   
+
+                                         normalized_text  
+12246  @veenadubal what’s extra annoying that if he w...           username  retweet_count  favorite_count  \
+5279  timnitGebru            400            2121   
+
+                                        normalized_text  
+5279  i don’t remember what year when elon musk visi...            username  retweet_count  favorite_count  \
+18703  math_rachel          13245           31841   
+
+                                         normalized_text  
+18703  “covid zero impossible omicron, what’s point e...           username  retweet_count  favorite_count  \
+229  mmitchell_ai           1274            6836   
+
+                                       normalized_text  
+229  at google, female research scientist women wer...            username  retweet_count  favorite_count  \
+10770    AJLUnited            229             594   
+19613  math_rachel             28             594   
+
+                                         normalized_text  
+10770  🎉 @codedbias now streaming on @netflix 🎉\n\nfo...  
+19613  i'm excited share that i've joined @qutdatasci...         username  retweet_count  favorite_count  \
+15172  annargrs            667            3410   
+
+                                         normalized_text  
+15172  ❌"nato expansion east"\n✅ "eastern europe leav...  
+
+Most Frequent Hashtag Per User
+
+
+emilymbender	[('#nlproc', 78)]
+
+ruchowdh	[('#ai', 13)]
+
+timnitGebru	[('#egypt', 11)]
+
+math_rachel	[('#longcovid', 24)]
+
+mmitchell_ai	[('#ai', 10)]
+
+AJLUnited	[('#codedbias', 166)]
+
+annargrs	[('#nlproc', 94)]
+
+
+####Total Statistics####
+
+
+
+Most Frequent Users
+
+
+
+'User' 'mentioned_user' 'amount'
+
+
+[('@timnitGebru', 645), ('@yoavgo', 418), ('@mmitchell_ai', 400), ('@emilymbender', 397), ('@jovialjoy', 358), ('@TaliaRinger', 252), ('@rajiinio', 192), ('@tallinzen', 180), ('@alexhanna', 161), ('@zehavoc', 153)]
+
+
+####Statistics Per User####
+
+
+
+Most Frequent Users Per User
+
+
+
+'User' 'mentioned_user' 'amount'
+
+
+mmitchell_ai	[('timnitGebru', 243), ('emilymbender', 92), ('mmitchell_ai', 74), ('ruchowdh', 34), ('AJLUnited', 7), ('annargrs', 6), ('math_rachel', 5)]
+
+timnitGebru	[('mmitchell_ai', 88), ('timnitGebru', 79), ('emilymbender', 58), ('AJLUnited', 8), ('math_rachel', 3), ('annargrs', 1)]
+
+emilymbender	[('timnitGebru', 188), ('mmitchell_ai', 147), ('emilymbender', 30), ('annargrs', 27), ('ruchowdh', 9), ('math_rachel', 4), ('AJLUnited', 4)]
+
+AJLUnited	[('AJLUnited', 114), ('timnitGebru', 45), ('mmitchell_ai', 2), ('ruchowdh', 1)]
+
+ruchowdh	[('mmitchell_ai', 44), ('ruchowdh', 31), ('timnitGebru', 23), ('emilymbender', 3), ('math_rachel', 2), ('AJLUnited', 2)]
+
+annargrs	[('emilymbender', 205), ('mmitchell_ai', 23), ('timnitGebru', 8), ('annargrs', 6), ('math_rachel', 2)]
+
+math_rachel	[('math_rachel', 67), ('timnitGebru', 59), ('mmitchell_ai', 22), ('emilymbender', 9), ('ruchowdh', 9), ('AJLUnited', 1)]

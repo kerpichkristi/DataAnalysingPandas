@@ -1,0 +1,514 @@
+Statistics for the entire album
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 265), ("'i", 86), ('i', 86), ('get', 44), ("'positive", 39), ("'the", 36), ('we', 35), ('that', 35), ('can', 34), ('out', 33), ('like', 33), ("contact',", 33), ('on', 32), ('cant', 32), ('some', 32), ("'im", 32), ('me', 31), ('im', 30), ('one', 28), ('all', 27), ('are', 27), ("'they", 27), ('do', 27), ('tur—', 27), ('want', 26), ("'with", 26), ("'and", 25), ("'things", 25), ("lyrics',", 24), ('what', 24), ('have', 24), ('this', 23), ("'we", 22), ("'my", 22), ('got', 22), ("done',", 22), ('from', 21), ('turbulence', 21), ('cause', 20), ('try', 19), ('three', 18), ('by', 18), ('matter', 18), ('their', 18), ('time', 17), ("'yo", 17), ('yall', 17), ('they', 17), ('may', 17), ('envision', 17), ('murder', 17), ('everyday', 17), ("'its", 16), ('thousand', 16), ('no', 16), ('just', 16), ("'no", 16), ('not', 15), ('day', 15), ('our', 15), ('his', 15), ("'in", 15), ('deltron', 14), ("it',", 14), ("'to", 14), ('know', 14), ("'people", 14), ("over',", 13), ('was', 13), ('space', 13), ('over', 13), ('memory', 13), ("thirty',", 12), ('meet', 12), ('zero', 12), ("'now", 12), ("automator',", 12), ('computer', 12), ('wait', 12), ('youre', 12), ("'upgrade", 12), ('grey', 12), ("matter',", 12), ('caught', 12), ('grip', 12), ("city',", 12), ("loss',", 12), ('aint', 11), ('hard', 11), ('man', 11), ('em', 11), ('up', 11), ('gonna', 11), ('will', 11), ('he—', 11), ('take', 10), ('more', 10), ('us', 10), ('use', 10), ('while', 10), ("me',", 10), ("'so", 10), ("'you", 10), ('d-e-l', 10), ('d—', 10), ("'it", 10), ("'ill", 9), ('see', 9), ('had', 9), ("'for", 9), ('brain', 9), ('stay', 9), ('hit', 9), ('ya', 9), ('earth', 9), ('minute', 9), ("here',", 9), ('yo', 9), ("'cause", 9), ("'when", 9), ("'madness',", 9), ("3030)',", 9), ('here', 8), ('were', 8), ('heat', 8), ('music', 8), ('through', 8), ('about', 8), ('make', 8), ('rap', 8), ('way', 8), ('check', 8), ("out',", 8), ('two', 8), ('whole', 8), ('into', 8), ('when', 8), ('planet', 8), ('star', 8), ('still', 8), ('gotta', 8), ('wanna', 8), ('every', 8), ('dont', 8), ('go', 8), ('he', 8), ("occurrence',", 8), ('occurrence', 8), ('(its', 8), ('back', 7), ('think', 7), ("back',", 7), ('last', 7), ("shit',", 7), ('flow', 7), ('mind', 7), ('versus', 7), ('style', 7), ("'who", 7), ('contact', 7), ('new', 7), ("'hit", 7), ('if', 7), ("virus',", 7), ('bring', 7), ('system', 7), ('off', 7), ('everybody', 7), ("'thats", 7), ('own', 7), ('live', 7), ('year', 6), ('landed', 6), ('where', 6), ('used', 6), ('catch', 6), ("'fuck", 6), ("'not", 6), ('let', 6), ("'but", 6), ('thats', 6), ('these', 6), ('ill', 6), ('never', 6), ('life', 6), ("'all", 6), ('how', 6), ("'crush", 6), ('four', 6), ('feel', 6), ("'check", 6), ('lets', 6), ("in',", 6), ('mcs', 6), ("'(wait", 6), ('percent', 6), ('information', 6), ("'dont", 6), ('set', 6), ("way',", 6)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("hollow',", 1), ('musics', 1), ("bottle',", 1), ("motto',", 1), ('alls', 1), ("'sufferin", 1), ("survey',", 1), ('fuckin', 1), ('grouped', 1), ("ways',", 1), ('different', 1), ("'why", 1), ("faithful',", 1), ('nature', 1), ('law', 1), ("positive',", 1), ('opposite', 1), ('dels', 1), ("'someone", 1), ("intelligence',", 1), ('sheisty', 1), ("id',", 1), ('suspect', 1), ("so',", 1), ('heathens', 1), ("'heathens", 1), ("breathin',", 1), ('reason', 1), ("squeezin',", 1), ('vice', 1), ('survive', 1), ('describe', 1), ("'if", 1), ("allowed',", 1), ('regulations', 1), ('rules', 1), ("owls',", 1), ('cows', 1), ('deers', 1), ('compatible', 1), ("now',", 1), ('hears', 1), ('feet', 1), ('six', 1), ("clown',", 1), ('and', 1), ('jeer', 1), ('peers', 1), ("handsome',", 1), ('phantom', 1), ("'sorta", 1), ('hand', 1), ('pride', 1), ("outside',", 1), ('talkin', 1), ('cutty', 1), ("five',", 1), ('slap', 1), ('mode', 1), ('egotistical', 1), ('myself', 1), ('whos', 1), ('holy', 1), ('podiums', 1), ('smithsonian', 1), ("glorious',", 1), ('laugh', 1), ('else', 1), ("faculties',", 1), ('appeal', 1), ("music',", 1), ('meaning', 1), ("producer',", 1), ("dj',", 1), ("mc',", 1), ("upembed',", 1), ('thumbs', 1), ("hosers',", 1), ('terminology', 1), ('correct', 1), ("men',", 1), ('renaissance', 1), ('latter', 1), ("adventures',", 1), ('heroic', 1), ('chronicles', 1), ('brew', 1), ('strange', 1), ("'entitled", 1), ("mckenzie',", 1), ('doug', 1), ("'bob", 1), ('cinema', 1), ('american', 1), ('north', 1), ('geniuses', 1), ('comedic', 1), ("'starring", 1), ("classic',", 1), ('network', 1), ('national', 1), ('universal', 1), ("'todays", 1), ("eh?',", 1), ("message',", 1), ('broadcast', 1), ('interrupt', 1), ('review', 1), ("'national", 1), ("yeah!)17embed',", 1), ('thirty-three', 1), ('p—', 1), ('(yes!', 1), ('cosmos', 1), ("really?)',", 1), ('(really?', 1), ("'good", 1), ("cool?',", 1), ('do?', 1), ('howd', 1), ('hows', 1), ("him',", 1), ('wisdom', 1), ('infinite', 1), ("dap',", 1), ('(yeah', 1), ('rhythm', 1), ('matters', 1), ('gifted', 1), ('truly', 1), ('evil-doers', 1), ('told', 1), ("man)',", 1), ('(thats', 1), ('clique', 1), ("that?)',", 1), ('would', 1), ('(now', 1), ("earth',", 1), ("'automators", 1), ("(repeat)',", 1), ("symphony',", 1), ('beat', 1), ('higher', 1), ('laser', 1), ('draw', 1), ("sterling',", 1), ('shines', 1), ('merlin', 1), ("'musical", 1), ("currents',", 1), ('virgin', 1), ('purest', 1), ("'neurosurgeon", 1), ('carry', 1), ('propulsion', 1), ("'unparalleled", 1), ("variables',", 1), ('juggles', 1), ("fornicated',", 1), ('formulated', 1), ("'especially", 1), ("feel',", 1), ('bionically', 1), ("mastermind)',", 1), ('(the', 1), ("'loud", 1), ("screaming',", 1), ("'shouting", 1), ("singing',", 1), ("souls',", 1), ("'uncovering", 1), ("away',", 1), ('crumble', 1), ('cities', 1), ("stimulus',", 1), ('tailored', 1), ("'genetically", 1), ("physicist',", 1), ('mix', 1), ("gift',", 1), ('patent', 1), ('latent', 1), ("effect',", 1), ('hypnotic', 1), ('impress', 1), ("canvas',", 1), ("'atomically", 1), ("slamming',", 1), ('combos', 1), ('cannon', 1), ('apply', 1), ("re-programmin',", 1), ('time-consumin', 1), ("'collaborate", 1), ("patterns',", 1), ('coerce', 1), ("'first", 1), ("e—',", 1), ("distance',", 1)]
+
+
+Shortest song
+
+01_state_of_the_nation.txt	249
+
+Longest song
+
+02_3030.txt	4193
+
+Song with shortest vocabulary
+
+21_the_assmann_640_speaks.txt	32
+
+Song with largest vocabulary
+
+02_3030.txt	630
+
+
+
+Statistics for every song
+
+
+
+
+#####01_state_of_the_nation.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('we', 3), ("['state", 1), ('nation', 1), ("lyrics',", 1), ("'',", 1)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("'',", 1), ("lyrics',", 1), ('nation', 1), ("['state", 1), ('we', 3)]
+
+
+Song lenth
+
+	249
+
+Song vocabulary
+
+	41
+
+#####02_3030.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 16), ("'i", 15), ("'yo", 10), ('three', 10), ('thousand', 10)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('thousand', 10), ('three', 10), ("'yo", 10), ("'i", 15), ("'',", 16)]
+
+
+Song lenth
+
+	4193
+
+Song vocabulary
+
+	630
+
+#####03_the_fantabulous_rap_extravaganza.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('rap', 3), ("'its", 3), ('versus', 3), ("'be", 2), ("['the", 1)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("['the", 1), ("'be", 2), ('versus', 3), ("'its", 3), ('rap', 3)]
+
+
+Song lenth
+
+	316
+
+Song vocabulary
+
+	34
+
+#####04_things_you_can_do.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('can', 25), ("'things", 24), ('do', 22), ('some', 21), ('cant', 21)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('cant', 21), ('some', 21), ('do', 22), ("'things", 24), ('can', 25)]
+
+
+Song lenth
+
+	3974
+
+Song vocabulary
+
+	580
+
+#####05_positive_contact.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 16), ("'positive", 12), ("contact',", 12), ('wait', 12), ('minute', 9)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('minute', 9), ('wait', 12), ("contact',", 12), ("'positive", 12), ("'',", 16)]
+
+
+Song lenth
+
+	3512
+
+Song vocabulary
+
+	473
+
+#####06_st_catherine_st.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('out', 6), ('i', 5), ('i’m', 4), ('know', 4), ('yo', 4)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('yo', 4), ('know', 4), ('i’m', 4), ('i', 5), ('out', 6)]
+
+
+Song lenth
+
+	659
+
+Song vocabulary
+
+	122
+
+#####07_virus.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 20), ("'i", 10), ("virus',", 7), ('wanna', 6), ("'to", 6)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("'to", 6), ('wanna', 6), ("virus',", 7), ("'i", 10), ("'',", 20)]
+
+
+Song lenth
+
+	3473
+
+Song vocabulary
+
+	521
+
+#####08_upgrade_a_brymar_college_course.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 38), ('grey', 12), ('matter', 12), ('cause', 12), ('one', 12)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('one', 12), ('cause', 12), ('matter', 12), ('grey', 12), ("'',", 38)]
+
+
+Song lenth
+
+	3708
+
+Song vocabulary
+
+	530
+
+#####09_new_coke.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('out', 4), ('that', 4), ('gonna', 3), ('gotta', 3), ('used', 3)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('used', 3), ('gotta', 3), ('gonna', 3), ('that', 4), ('out', 4)]
+
+
+Song lenth
+
+	593
+
+Song vocabulary
+
+	101
+
+#####10_mastermind.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 23), ('he—', 11), ('d-e-l', 10), ('d—', 10), ('he', 6)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('he', 6), ('d—', 10), ('d-e-l', 10), ('he—', 11), ("'',", 23)]
+
+
+Song lenth
+
+	2475
+
+Song vocabulary
+
+	370
+
+#####11_national_movie_review.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('movie', 2), ("'we", 2), ('this', 2), ('two', 2), ('20th', 2)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('20th', 2), ('two', 2), ('this', 2), ("'we", 2), ('movie', 2)]
+
+
+Song lenth
+
+	477
+
+Song vocabulary
+
+	68
+
+#####12_madness.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 17), ("'im", 14), ('caught', 12), ('grip', 12), ("city',", 12)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("city',", 12), ('grip', 12), ('caught', 12), ("'im", 14), ("'',", 17)]
+
+
+Song lenth
+
+	3433
+
+Song vocabulary
+
+	565
+
+#####13_meet_cleofis_randolph_the_patriarch.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'im", 2), ('more', 2), ("'and", 2), ("['meet", 1), ('cleofis', 1)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('cleofis', 1), ("['meet", 1), ("'and", 2), ('more', 2), ("'im", 2)]
+
+
+Song lenth
+
+	629
+
+Song vocabulary
+
+	92
+
+#####14_time_keeps_on_slipping.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 20), ("'no", 8), ('time', 7), ('me', 7), ('one', 6)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('one', 6), ('me', 7), ('time', 7), ("'no", 8), ("'',", 20)]
+
+
+Song lenth
+
+	3093
+
+Song vocabulary
+
+	438
+
+#####15_the_news_a_wholly_owned_subsidiary_of_microsoft_inc.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('really', 3), ('these', 3), ('we', 2), ('are', 2), ("['the", 1)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("['the", 1), ('are', 2), ('we', 2), ('these', 3), ('really', 3)]
+
+
+Song lenth
+
+	394
+
+Song vocabulary
+
+	63
+
+#####16_turbulence_remix.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 11), ("'i", 10), ('envision', 9), ('turbulence', 9), ('murder', 9)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('murder', 9), ('turbulence', 9), ('envision', 9), ("'i", 10), ("'',", 11)]
+
+
+Song lenth
+
+	2940
+
+Song vocabulary
+
+	415
+
+#####17_the_fantabulous_rap_extravaganza_part_ii.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('rap', 4), ('versus', 4), ('battle', 2), ("'the", 2), ('intergalactic', 2)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('intergalactic', 2), ("'the", 2), ('battle', 2), ('versus', 4), ('rap', 4)]
+
+
+Song lenth
+
+	356
+
+Song vocabulary
+
+	45
+
+#####18_battlesong.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('his', 10), ("'i", 8), ('we', 7), ("'he", 6), ('out', 6)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('out', 6), ("'he", 6), ('we', 7), ("'i", 8), ('his', 10)]
+
+
+Song lenth
+
+	3028
+
+Song vocabulary
+
+	485
+
+#####19_love_story.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 14), ('i', 8), ("'i", 6), ('im', 6), ('all', 5)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('all', 5), ('im', 6), ("'i", 6), ('i', 8), ("'',", 14)]
+
+
+Song lenth
+
+	2696
+
+Song vocabulary
+
+	418
+
+#####20_memory_loss.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('get', 20), ("'',", 19), ('try', 15), ("'they", 13), ('have', 13)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('have', 13), ("'they", 13), ('try', 15), ("'',", 19), ('get', 20)]
+
+
+Song lenth
+
+	2912
+
+Song vocabulary
+
+	478
+
+#####21_the_assmann_640_speaks.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'we", 3), ("'its", 2), ("['the", 1), ('assmann', 1), ('640', 1)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[('640', 1), ('assmann', 1), ("['the", 1), ("'its", 2), ("'we", 3)]
+
+
+Song lenth
+
+	272
+
+Song vocabulary
+
+	32
+
+#####22_positive_contact_charlie_clouser_remix.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 17), ("'positive", 12), ("contact',", 11), ('i', 5), ("'the", 4)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("'the", 4), ('i', 5), ("contact',", 11), ("'positive", 12), ("'',", 17)]
+
+
+Song lenth
+
+	3029
+
+Song vocabulary
+
+	392
+
+#####23_turbulence_mark_bell_remix.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[('tur—', 27), ("'',", 14), ('turbulence', 12), ("'i", 9), ("3030)',", 9)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("3030)',", 9), ("'i", 9), ('turbulence', 12), ("'',", 14), ('tur—', 27)]
+
+
+Song lenth
+
+	3420
+
+Song vocabulary
+
+	469
+
+#####24_positive_contact_mario_c_remix.txt#####
+
+Most frequent words ('Word', Number of repetitions)
+
+[("'',", 17), ("'positive", 12), ("contact',", 10), ('i', 5), ("'the", 4)]
+
+
+Unique words ('Word', Number of repetitions)
+
+[("'the", 4), ('i', 5), ("contact',", 10), ("'positive", 12), ("'',", 17)]
+
+
+Song lenth
+
+	3138
+
+Song vocabulary
+
+	407
